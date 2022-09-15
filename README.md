@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LysenkoDenys
 - 👀 I’m interested in Javascript, React
-- 🌱 I’m currently learning html, css, javasctipt
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lysenkoden@gmail.com
 
