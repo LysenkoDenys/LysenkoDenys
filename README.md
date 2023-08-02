@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LysenkoDenys
-- 👀 I’m interested in Javascript, React JS
+# 👋 Hi, I’m @LysenkoDenys
+## 👀 I’m interested in Javascript, React JS
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React JS and open to work
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lysenkoden@gmail.com
