@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React JS and open to work
 - 💞️ I’m looking to collaborate on ...
  📫 How to reach me:
-*lysenkoden@gmail.com
-*https://www.linkedin.com/in/lysenko-denys
+* lysenkoden@gmail.com
+* https://www.linkedin.com/in/lysenko-denys
 
 <!---
 LysenkoDenys/LysenkoDenys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
