@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @LysenkoDenys
+# 👋 Hi, I’m Denys Lysenko
 ## 👀 I’m interested in Javascript, React JS
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React JS and open to work
 - 💞️ I’m looking to collaborate on ...
