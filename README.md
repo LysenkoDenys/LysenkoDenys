@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Denys Lysenko
-## 👀 I’m interested in Web Development (Javascript, React JS)
+## 👀 I’m interested in Web Development (JavaScript, React JS)
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React JS and open to work
 - 📫 How to reach me:
 * lysenkoden@gmail.com
