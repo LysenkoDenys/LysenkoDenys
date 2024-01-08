@@ -18,7 +18,8 @@
 <img height="250px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenys&layout=compact&&langs_count=8"/>
 </div>
 
-<body style="background-color:powderblue;">
+<body bgcolor="#800000">
+
 <!---
 LysenkoDenys/LysenkoDenys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
