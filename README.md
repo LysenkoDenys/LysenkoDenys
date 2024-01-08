@@ -16,8 +16,8 @@
 
 
 <div align="center">
-<img height="100px" alt="Denys's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LysenkoDenys&show_icons=true&theme=transparent"/>
-<img height="100px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenys&layout=compact&&langs_count=8"/>
+<img height="200px" alt="Denys's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LysenkoDenys&show_icons=true&theme=transparent"/>
+<img height="200px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenys&layout=compact&&langs_count=8"/>
 </div>
 
 <!---
