@@ -17,7 +17,7 @@
 
 <div align="center">
 <img alt="Denys's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LysenkoDenys&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenysi&layout=compact&&langs_count=8"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenys&layout=compact&&langs_count=8"/>
 </div>
 
 <!---
