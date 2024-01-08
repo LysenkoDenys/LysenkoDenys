@@ -9,10 +9,10 @@
  [![Static Badge](https://img.shields.io/badge/LysenkoDenys-%23982C15?style=plastic&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FLysenkoDenys)](https://www.codewars.com/users/LysenkoDenys)
 
 #### Top technologies:
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 
 
-:paperclip: [My Resume/CV](https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing)
+:paperclip: [CV]([https://drive.google.com/file/d/12z5Ig5x4RNoIUpQ-M7AMl1NL8FTIvlaU/view?usp=sharing](https://cv-lysenkodenys.vercel.app))
 
 <!---
 LysenkoDenys/LysenkoDenys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
