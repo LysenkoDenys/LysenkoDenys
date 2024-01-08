@@ -11,7 +11,7 @@
 #### Top technologies:
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 
-:paperclip: [CV](https://cv-lysenkodenys.vercel.app)
+[![Static Badge](https://img.shields.io/badge/CV-%2317A589?style=plastic&logo=readdotcv&logoColor=white)](https://cv-lysenkodenys.vercel.app)
 
 <div align="center">
 <img height="200px" alt="Denys's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LysenkoDenys&show_icons=true&theme=transparent"/>
