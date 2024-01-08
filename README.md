@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Denys Lysenko
+# 👋 Hi, I’m Denys Lysenko!
 ## 👀 I’m interested in Web Development (JavaScript, React JS, Jest&RTL, TypeScript, Redux)
   🌱 I’m currently learning Jest, React test library and TypeScript and and open to work.
   
@@ -16,8 +16,8 @@
 
 
 <div align="center">
-<img alt="Denys's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LysenkoDenys&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenys&layout=compact&&langs_count=8"/>
+<img height="100px" alt="Denys's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LysenkoDenys&show_icons=true&theme=transparent"/>
+<img height="100px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenys&layout=compact&&langs_count=8"/>
 </div>
 
 <!---
