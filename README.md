@@ -2,7 +2,7 @@
 ## 👀 I’m interested in Web Development (JavaScript, React JS, Jest&RTL, TypeScript, Redux)
   🌱 I’m currently learning Jest, React test library and TypeScript and and open to work.
 
-  [![Static Badge](https://img.shields.io/badge/My%20CV-%2317A589?style=plastic&logo=readdotcv&logoColor=white)](https://cv-lysenkodenys.vercel.app)
+  [![Static Badge](https://img.shields.io/badge/My%20CV-%2317A589?style=plastic&logo=readdotcv&logoColor=white)](https://cv-lysenko.vercel.app)
   
 #### 📫 How to reach me:
   
