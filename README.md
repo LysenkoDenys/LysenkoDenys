@@ -11,7 +11,7 @@
  [![Static Badge](https://img.shields.io/badge/LysenkoDenys-%23982C15?style=plastic&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FLysenkoDenys)](https://www.codewars.com/users/LysenkoDenys)
 
 #### :floppy_disk: Top technologies:
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Static Badge](https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 
 
 <div align="left">
