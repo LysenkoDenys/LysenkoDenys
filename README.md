@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Denys Lysenko!
-## 👀 I’m interested in Web Development (JS, React JS, Jest&RTL, TS, Redux, Node, Express, MongoDB)
+## 👀 I’m interested in Web Development (JS/TS, React JS, Jest&RTL, Redux, MERN)
   🌱 I’m currently learning Jest, React test library, RTK, MongoDB and open to work.
 
   [![Static Badge](https://img.shields.io/badge/My%20CV-%2317A589?style=plastic&logo=readdotcv&logoColor=white)](https://cv-lysenko.vercel.app)
