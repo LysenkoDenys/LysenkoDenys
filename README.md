@@ -10,7 +10,7 @@
  [![Static Badge](https://img.shields.io/badge/Lysenko%20Denys-%230077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flysenko-denys)](https://www.linkedin.com/in/lysenko-denys/)
  [![Static Badge](https://img.shields.io/badge/Lysenko%20Denys-%233B5998?style=plastic&logo=facebook&logoColor=white&labelColor=%233B5998&link=https%3A%2F%2Fwww.facebook.com%2Fusers%2FLysenkoDenys)](https://www.facebook.com/profile.php?id=100001281440746)
  [![Static Badge](https://img.shields.io/badge/LysenkoDenys-%23982C15?style=plastic&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FLysenkoDenys)](https://www.codewars.com/users/LysenkoDenys)
- [![Static Badge](https://img.shields.io/badge/LysenkoDenys-%23982C15?style=plastic&logo=sololearn&logoColor=white&link=https%3A%2F%2Fwww.sololearn.com%2Fusers%2FLysenkoDenys)](https://www.sololearn.com/en/profile/27626456)
+ [![Static Badge](https://img.shields.io/badge/LysenkoDenys-%23FCDD3D?style=plastic&logo=sololearn&logoColor=white&link=https%3A%2F%2Fwww.sololearn.com%2Fusers%2FLysenkoDenys)](https://www.sololearn.com/en/profile/27626456)
 
 #### :floppy_disk: Top technologies:
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-gray?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)](#) 
