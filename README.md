@@ -8,7 +8,7 @@
   
  [![Static Badge](https://img.shields.io/badge/Lysenko%20Denys-e74c3c?style=plastic&logo=gmail&logoColor=white&link=lysenkoden%40gmail.com)](mailto:lysenkoden@gmail.com)
  [![Static Badge](https://img.shields.io/badge/Lysenko%20Denys-blue?style=plastic&logo=linkedin&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flysenko-denys)](https://www.linkedin.com/in/lysenko-denys/)
- [![Static Badge](https://img.shields.io/badge/Lysenko%20Denys-%233B5998?style=plastic&logo=facebook&logoColor=white&labelColor=blue&link=https%3A%2F%2Fwww.facebook.com%2Fusers%2FLysenkoDenys)](https://www.facebook.com/profile.php?id=100001281440746)
+ [![Static Badge](https://img.shields.io/badge/Lysenko%20Denys-%233B5998?style=plastic&logo=facebook&logoColor=white&labelColor=%233B5998&link=https%3A%2F%2Fwww.facebook.com%2Fusers%2FLysenkoDenys)](https://www.facebook.com/profile.php?id=100001281440746)
  [![Static Badge](https://img.shields.io/badge/LysenkoDenys-%23982C15?style=plastic&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FLysenkoDenys)](https://www.codewars.com/users/LysenkoDenys)
  [![Static Badge](https://img.shields.io/badge/LysenkoDenys-%23982C15?style=plastic&logo=sololearn&logoColor=white&link=https%3A%2F%2Fwww.sololearn.com%2Fusers%2FLysenkoDenys)](https://www.sololearn.com/en/profile/27626456)
 
