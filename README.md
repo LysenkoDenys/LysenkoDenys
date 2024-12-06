@@ -1,8 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hi, I’m Denys Lysenko!</h1>
 
-## I am a passionate Web Developer with a strong focus on JavaScript, TypeScript, React, and the MERN Stack.
+## I am a passionate Web Developer with a strong focus on JavaScript, TypeScript, React, Redux and the MERN Stack.
 
-  🌱 I’m currently learning Jest, React test library, RTK, MongoDB and open to work.
 ### 📄 Check Out My CV:
 I’ve summarized my professional experience, skills, and accomplishments in my CV. Let’s connect and create something amazing together!
   [![Static Badge](https://img.shields.io/badge/My%20CV-%2317A589?style=plastic&logo=readdotcv&logoColor=white)](https://cv-lysenko.vercel.app)
