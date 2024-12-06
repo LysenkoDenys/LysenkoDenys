@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=WEB%20AND%20APP%20DEVELOPER;OPEN%20TO%20WORK;2%2B%20YEARS%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=WEB%20AND%20APP%20DEVELOPER;OPEN%20TO%20WORK;2%2B%20YEARS%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=6495ED&vCenter=true&pause=1000&size=28" />
   </a>
 </p>
 
