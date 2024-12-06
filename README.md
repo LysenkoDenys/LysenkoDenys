@@ -4,6 +4,7 @@
 
 ### 📄 Check Out My CV:
 I’ve summarized my professional experience, skills, and accomplishments in my CV. Let’s connect and create something amazing together!
+<br>
   [![Static Badge](https://img.shields.io/badge/My%20CV-%2317A589?style=plastic&logo=readdotcv&logoColor=white)](https://cv-lysenko.vercel.app)
   
 #### 📫 How to reach me:
@@ -15,12 +16,39 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
  [![Static Badge](https://img.shields.io/badge/sololearn-%23FF8000?style=plastic&logo=sololearn&logoColor=white&link=https%3A%2F%2Fwww.sololearn.com%2Fusers%2FLysenkoDenys)](https://www.sololearn.com/en/profile/27626456)
 
 #### :floppy_disk: Top technologies:
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-gray?style=for-the-badge&labelColor=black&logo=redux&logoColor=white)](#) 
-
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥s</h2>
 <table align="center">
   <tr>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+      <br>HTML
+    </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+        <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>TypeScript
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+        <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <br>Python
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
+      <br>PHP
+    </td>
+  </tr>
+  <tr>
+        <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
       <br>React
     </td>
@@ -28,37 +56,11 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
       <br>Redux
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
+        <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
       <br>MaterialUI
     </td>
@@ -67,12 +69,12 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
-      <br>HTML
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
-      <br>CSS
+      <img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="Express" />
+      <br>Jest
     </td>
   </tr>
   <tr>
