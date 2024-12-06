@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Denys Lysenko!
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hi, I’m Denys Lysenko!</h1>
+
 ## I am a passionate Web Developer with a strong focus on JavaScript, TypeScript, React, and the MERN Stack.
 
   🌱 I’m currently learning Jest, React test library, RTK, MongoDB and open to work.
@@ -25,6 +26,8 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
 
 ### 🚀 Let’s Build the Web Together!
 Thank you for visiting my profile. Don't forget to check out my repositories and give them a ⭐ if you find them helpful! 😊
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LysenkoDenys&label=Profile%20views&color=0e75b6&style=flat" alt="LysenkoDenys" /> </p>
 
 <!---
 LysenkoDenys/LysenkoDenys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
