@@ -1,7 +1,9 @@
 # 👋 Hi, I’m Denys Lysenko!
-## 👀 I’m interested in Web Development (JS/TS, React JS, Jest&RTL, Redux, MERN)
-  🌱 I’m currently learning Jest, React test library, RTK, MongoDB and open to work.
+## I am a passionate Web Developer with a strong focus on JavaScript, TypeScript, React, and the MERN Stack.
 
+  🌱 I’m currently learning Jest, React test library, RTK, MongoDB and open to work.
+### 📄 Check Out My CV:
+I’ve summarized my professional experience, skills, and accomplishments in my CV. Let’s connect and create something amazing together!
   [![Static Badge](https://img.shields.io/badge/My%20CV-%2317A589?style=plastic&logo=readdotcv&logoColor=white)](https://cv-lysenko.vercel.app)
   
 #### 📫 How to reach me:
@@ -21,6 +23,8 @@
 <img height="200px" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LysenkoDenys&layout=compact&&langs_count=8"/>
 </div>
 
+### 🚀 Let’s Build the Web Together!
+Thank you for visiting my profile. Don't forget to check out my repositories and give them a ⭐ if you find them helpful! 😊
 
 <!---
 LysenkoDenys/LysenkoDenys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
