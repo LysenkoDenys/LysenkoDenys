@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=WEB%20AND%20APP%20DEVELOPER;OPEN%20TO%20WORK;2%2B%20YEARS%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=6495ED&vCenter=true&pause=1000&size=28" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=WEB%20DEVELOPER;OPEN%20TO%20WORK;2%2B%20YEARS%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=6495ED&vCenter=true&pause=1000&size=28" />
   </a>
 </p>
 
@@ -18,9 +18,10 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
  [![Static Badge](https://img.shields.io/badge/Gmail-e74c3c?style=plastic&logo=gmail&logoColor=white&link=lysenkoden%40gmail.com)](mailto:lysenkoden@gmail.com)
  [![Static Badge](https://img.shields.io/badge/Linkedin-%230077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=%230077B5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flysenko-denys)](https://www.linkedin.com/in/lysenko-denys/)
  [![Static Badge](https://img.shields.io/badge/facebook-%233B5998?style=plastic&logo=facebook&logoColor=white&labelColor=%233B5998&link=https%3A%2F%2Fwww.facebook.com%2Fusers%2FLysenkoDenys)](https://www.facebook.com/profile.php?id=100001281440746)
+ <!---
  [![Static Badge](https://img.shields.io/badge/codewars-%23982C15?style=plastic&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FLysenkoDenys)](https://www.codewars.com/users/LysenkoDenys)
  [![Static Badge](https://img.shields.io/badge/sololearn-%23FF8000?style=plastic&logo=sololearn&logoColor=white&link=https%3A%2F%2Fwww.sololearn.com%2Fusers%2FLysenkoDenys)](https://www.sololearn.com/en/profile/27626456)
-
+--->
 #### :floppy_disk: Top technologies:
 <table align="left">
   <tr>
