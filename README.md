@@ -22,7 +22,7 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
  [![Static Badge](https://img.shields.io/badge/codewars-%23982C15?style=plastic&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FLysenkoDenys)](https://www.codewars.com/users/LysenkoDenys)
  [![Static Badge](https://img.shields.io/badge/sololearn-%23FF8000?style=plastic&logo=sololearn&logoColor=white&link=https%3A%2F%2Fwww.sololearn.com%2Fusers%2FLysenkoDenys)](https://www.sololearn.com/en/profile/27626456)
 --->
-#### :floppy_disk: Top technologies:
+#### :floppy_disk: Top skills/technologies:
 <table align="left">
   <tr>
         <td align="center" width="90">
