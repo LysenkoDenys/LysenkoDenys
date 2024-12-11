@@ -23,48 +23,52 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
  [![Static Badge](https://img.shields.io/badge/sololearn-%23FF8000?style=plastic&logo=sololearn&logoColor=white&link=https%3A%2F%2Fwww.sololearn.com%2Fusers%2FLysenkoDenys)](https://www.sololearn.com/en/profile/27626456)
 --->
 #### :floppy_disk: Top skills/technologies:
-<table align="left">
+<table>
   <tr>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="html" />
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="55" height="55" alt="JavaScript" />
       <br>JavaScript
-    </td>
-        <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>TypeScript
-    </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
-        <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-        <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
     </td>
   </tr>
   <tr>
-        <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="55" height="55" alt="Python" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="55" height="55" alt="React.js" />
       <br>React.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="55" height="55" alt="Redux" />
       <br>Redux
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=jest" width="45" height="45" alt="Jest" />
       <br>Jest
     </td>
     <td align="center" width="90">
@@ -75,16 +79,12 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
     </td>
-            <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
-      <br>MaterialUI
-    </td>
-        <td align="center" width="90">
+  </tr>
+  <tr>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
@@ -95,7 +95,7 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
     </td>
   </tr>
 </table>
-<br/>
+
 
 
 <div align="left">
