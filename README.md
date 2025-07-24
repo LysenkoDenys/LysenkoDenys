@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hi, I’m Denys Lysenko!<img src="https://i.gifer.com/7efs.gif" width="25" alt="🇺🇦" /></h1>
 
+![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-0057B7?style=flat-square&color=0057B7)
+
 ## I am a passionate Web Developer with a strong focus on JavaScript, TypeScript, React, Redux and the MERN Stack.
 
 <p align="center">
