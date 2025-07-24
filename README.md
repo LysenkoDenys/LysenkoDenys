@@ -1,6 +1,6 @@
 ![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-0057B7?style=flat-square&color=0057B7)
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hi, I’m Denys Lysenko!<img src="https://raw.githubusercontent.com/LysenkoDenys/LysenkoDenys/main/flag.gif" width="25" alt="🇺🇦"/></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hi, I’m Denys Lysenko!<img src="https://raw.githubusercontent.com/LysenkoDenys/LysenkoDenys/main/flag.gif" width="35" alt="🇺🇦"/></h1>
 
 
 
