@@ -19,7 +19,7 @@ I’ve summarized my professional experience, skills, and accomplishments in my 
   
 #### 📫 How to reach me:
   
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lysenko-denys/)
+ [![Static Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/lysenko-denys/)
  [![Static Badge](https://img.shields.io/badge/Gmail-e74c3c?style=plastic&logo=gmail&logoColor=white&link=lysenkoden%40gmail.com)](mailto:lysenkoden@gmail.com)
 
  <!---
